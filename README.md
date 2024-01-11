@@ -1,6 +1,6 @@
 # 📅 Tasks App (To-Do List)
 
-Website de um organizador de tarefas (to-do list) feito com React JS, Tailwind CSS, TypeScript, Redux Toolkit e mais.
+A to-do list organizer website built with React JS, Tailwind CSS, TypeScript, Redux Toolkit, and more.
 
 ## Description
 
